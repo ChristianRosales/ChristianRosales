@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me in https://christianrosales.github.io/Portfolio/
+- 📫 How to reach me on https://christianrosales.github.io/Portfolio/
 
 <!---
 ChristianRosales/ChristianRosales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
